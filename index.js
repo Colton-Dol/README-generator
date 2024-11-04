@@ -57,7 +57,7 @@ function writeToFile() {
     inquirer.prompt(questions)
 
     .then((answers) => {
-        fs.writeFile('READMEtemplate.md', generateMarkdown(answers), (err) =>
+        fs.writeFile('README.md', generateMarkdown(answers), (err) =>
             err ? console.log(err) : console.log('Successfully created README!')
         );
     });
