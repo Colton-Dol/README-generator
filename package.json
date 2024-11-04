@@ -1,13 +1,14 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "A program used to generate a README file based on a series of prompts.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "Colton Doling",
   "license": "ISC",
   "dependencies": {
     "inquirer": "8.2.4"
