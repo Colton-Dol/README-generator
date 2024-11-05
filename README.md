@@ -11,4 +11,4 @@ Run `npm i` to install necessary dependecies.
 ## Usage
 
 Run `npm start` in your command line and simply follow the prompts.
-You can watch a video tutorial here: [Walkthrough Video]()
+You can watch a video tutorial here: [Walkthrough Video](https://drive.google.com/file/d/1HlCkxghN8kaWxoUofiOiREjKHPq0kUW9/view?usp=drive_link)
